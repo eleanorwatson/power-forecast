@@ -18,6 +18,7 @@ lon = -3.2833
 capacity_mw = 100
 num_simulations = 100
 
+
 # Obtaining Data from OpenWeatherMap API
 # url = f"https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API_KEY}&units=metric"
 # response = requests.get(url)
